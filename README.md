@@ -1,101 +1,71 @@
-# 👋 Olá! Eu sou Yan Samuray | Hello! I'm Yan Samuray
+# Yan Samuray Siepamann Vieira
 
-🌟 **Data Scientist | Especialista em Business Intelligence | Expert em Power BI**
+**Strategy & Data Analytics | Performance Management | Energy & Utilities**
 
----
+Connecting business strategy, performance management, and analytics to support better decisions.
 
-### 🇺🇸 [English Version](#english) | 🇧🇷 [Versão em Português](#português)
+[LinkedIn](https://www.linkedin.com/in/yansamuray/) · [Versão em português](#versao-em-portugues)
 
----
+## About me
 
-<a id="english"></a>
+I work at the intersection of **business strategy, data analytics, and performance management**, with experience in the **Energy & Utilities sector** and **public administration**.
 
-## 🚀 About Me
+My work focuses on turning complex financial and operational information into reliable indicators, analytical models, and clear management reporting. I combine a background in Business Administration with hands-on experience in business intelligence, data processing, statistical analysis, and automation.
 
-Welcome to my GitHub! I'm Yan Samuray, a Data Scientist and BI Specialist passionate about transforming data into actionable insights and impactful visualizations to drive business decisions.
+I see dashboards as one part of a broader decision-support process: sound data foundations, consistent business rules, meaningful KPIs, and insights that management teams can act on.
 
-- 🎓 **Education**: Bachelor's in Administration | MBA in Business Analytics & Big Data (FGV)
-- 💼 **Current Role**: Strategic Management Analyst at Energisa
-- 🔍 **Expertise**: Data Science, Machine Learning, Business Intelligence
-- 📚 **Certifications**: Currently pursuing Microsoft Power BI Certification
-- 🎯 **Interests**: Cloud Computing, AI, Geomarketing, Strategic Management
+## Areas of focus
 
----
+- **Performance management:** KPI frameworks, actual-versus-plan analysis, forecasting, and executive reporting.
+- **Business intelligence:** Power BI solutions, semantic modeling, DAX, Power Query (M), and data visualization.
+- **Data engineering & automation:** Python-based data processing, ETL workflows, data validation, and integration.
+- **Advanced analytics:** Statistical analysis, geospatial methods, and machine learning applied to business questions.
 
-## 🛠️ Tools & Technologies
+## Selected work
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
-![Power Query](https://img.shields.io/badge/-Power%20Query-217346?logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white)
+**Energy & Utilities — Corporate performance analytics**  
+Analytical work involving financial and operational KPIs, performance monitoring, forecasting inputs, and management reporting. Corporate datasets and proprietary implementations are not shared publicly.
 
----
+**Public administration — Procurement and expenditure analytics**  
+Analytical support for procurement and administrative spending decisions, including quantitative assessments, cost calculations, and the identification of efficiency opportunities within broader institutional initiatives.
 
-## 📂 Featured Projects
+**Public safety — Geospatial analytics research**  
+Academic research examining the geographic coverage of public-safety monitoring infrastructure and patterns in recorded events using spatial and statistical analysis. The underlying data and project implementation are not public.
 
-- **[Security Totems Impact Analysis](https://github.com/SeuNomeDeUsuario/security-totems-impact)**
-  - Analysis of security totem effectiveness using spatial statistics and machine learning.
+## Open-source project
 
-- **[BI Dashboard for Contract Management](https://github.com/SeuNomeDeUsuario/bi-dashboard-contract-management)**
-  - Power BI dashboard designed for effective management of contracts.
+**[Tarja — Redaction of Personal Identifiers in Documents](https://github.com/YanSamuray/tarja)**  
+A Python tool that locally redacts Brazilian personal identifiers (CPF, RG, CNH, and voter ID) in PDFs, images, and text files. It started as a script to reduce manual redaction work and was rebuilt with OCR, batch processing, automated tests, and a review report for every run.
 
-- **[Geomarketing Strategic Application](https://github.com/SeuNomeDeUsuario/geomarketing-strategy)**
-  - Undergraduate thesis project demonstrating strategic decision-making supported by geomarketing.
+## Tools & technologies
 
----
+**Analytics & BI:** Power BI · DAX · Power Query (M) · Excel  
+**Programming & data:** Python · SQL · pandas · scikit-learn  
+**Development workflow:** Git · GitHub · VS Code
 
-## 📫 Connect with Me
+## Education
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yansamuray)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:yansamuray@gmail.com)
+- **Business Administration** — Undergraduate degree.
+- **Business Analytics & Big Data** — MBA studies at Fundação Getulio Vargas (FGV), in progress.
 
----
+## Connect
 
-<a id="português"></a>
-
-## 🚀 Sobre Mim
-
-Bem-vindo(a) ao meu GitHub! Sou Yan Samuray, especialista em Ciência de Dados e Business Intelligence, apaixonado por transformar dados em decisões estratégicas e criar visualizações impactantes.
-
-- 🎓 **Formação**: Graduado em Administração, MBA em Business Analytics & Big Data
-- 💼 **Cargo Atual**: Analista de Gestão Estratégica na Energisa
-- 📊 **Especializações**: Ciência de Dados, Machine Learning, Inteligência de Negócios
-- 📚 **Certificações**: Em processo de certificação Microsoft Power BI
-- 🎯 **Interesses**: Computação em Nuvem, IA, Geomarketing, Gestão Estratégica
+For professional networking and collaboration: [LinkedIn](https://www.linkedin.com/in/yansamuray/).
 
 ---
 
-## 🛠️ Ferramentas & Tecnologias
+<a id="versao-em-portugues"></a>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/-Power%20Query-217346?logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white)
+## Versão em português
 
----
+Atuo na interseção entre **gestão estratégica, análise de dados e gestão de desempenho**, com experiência no setor de **energia e utilities** e na **administração pública**.
 
-## 📂 Projetos em Destaque
+Meu trabalho combina conhecimentos de Administração, Business Intelligence e Analytics para transformar informações financeiras e operacionais em indicadores confiáveis, modelos analíticos e relatórios que apoiem decisões de gestão.
 
-- **[Análise de Impacto dos Totens de Segurança](https://github.com/SeuNomeDeUsuario/security-totems-impact)**
-  - Análise estatística espacial e aprendizado de máquina para avaliar a eficácia dos totens na redução de crimes.
+**Principais áreas de atuação:** gestão de KPIs e desempenho, análise de realizado versus planejado, forecast, modelagem de dados, Power BI, automação com Python, análise estatística e geoespacial.
 
-- **[Dashboard BI para Gestão de Contratos](https://github.com/SeuNomeDeUsuario/bi-dashboard-contracts)**
-  - Painel no Power BI para aprimorar a gestão estratégica de contratos.
+**Projeto de código aberto:** [Tarja](https://github.com/YanSamuray/tarja), ferramenta de censura de identificadores pessoais em documentos. Outros trabalhos profissionais e acadêmicos são apresentados apenas de forma descritiva para preservar a confidencialidade de dados e implementações.
 
-- **[Estratégias de Geomarketing](https://github.com/SeuNomeDeUsuario/geomarketing-strategy)**
-  - Projeto acadêmico sobre como o geomarketing auxilia na tomada de decisões estratégicas.
+**Formação:** Graduação em Administração e estudos de MBA em Business Analytics & Big Data pela FGV (em andamento).
 
----
-
-## 📫 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yansamuray)
-
----
-
-✨ Obrigado pela visita! | Thanks for stopping by! 🚀
+**Contato profissional:** [LinkedIn](https://www.linkedin.com/in/yansamuray/).
